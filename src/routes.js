@@ -28,7 +28,7 @@ function Routes() {
         }}
       />
       <Stack.Screen
-        name="CategoryPosts"
+        name="Category"
         component={CategoryPosts}
         options={{
           title: "Categoria",
